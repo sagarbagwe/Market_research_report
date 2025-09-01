@@ -1,0 +1,25 @@
+{
+  "name": "market-trend-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/google": "^2.0.11",
+    "ai": "^5.0.28",
+    "chart.js": "^4.5.0",
+    "puppeteer": "^24.17.1",
+    "zod": "^4.1.5"
+  },
+  "devDependencies": {
+    "@types/chart.js": "^4.0.1",
+    "@types/node": "^24.3.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}
